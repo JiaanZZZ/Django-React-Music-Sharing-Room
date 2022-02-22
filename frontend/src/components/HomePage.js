@@ -9,7 +9,7 @@ import {Link} from "react-router-dom"
 
 
 export function HomePage() {
-  
+ 
     return(
         <Grid container spacing={3}>
             <Grid item xs={12} align="center">
