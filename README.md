@@ -4,6 +4,8 @@ Django is the Backend framework and React is the frontend framework.
 This Web App is Spotify music controlling room. You can create create a music room and invite your friends to join together. 
 
 Your spotify music will be displayed and paused/played by people in this room.
+
+
 The main page:
 ![Screenshot 2022-02-23 at 22 49 13](https://user-images.githubusercontent.com/74383677/155422555-7053db33-9423-46d8-ba26-7086da1871a9.png)
 
